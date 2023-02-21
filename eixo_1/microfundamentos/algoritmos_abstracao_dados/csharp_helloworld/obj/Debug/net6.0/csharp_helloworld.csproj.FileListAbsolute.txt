@@ -1,0 +1,15 @@
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/bin/Debug/net6.0/csharp_helloworld
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/bin/Debug/net6.0/csharp_helloworld.deps.json
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/bin/Debug/net6.0/csharp_helloworld.runtimeconfig.json
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/bin/Debug/net6.0/csharp_helloworld.dll
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/bin/Debug/net6.0/csharp_helloworld.pdb
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/csharp_helloworld.csproj.AssemblyReference.cache
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/csharp_helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/csharp_helloworld.AssemblyInfoInputs.cache
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/csharp_helloworld.AssemblyInfo.cs
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/csharp_helloworld.csproj.CoreCompileInputs.cache
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/csharp_helloworld.dll
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/refint/csharp_helloworld.dll
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/csharp_helloworld.pdb
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/csharp_helloworld.genruntimeconfig.cache
+/home/michel/workspace/PUC_TADS/eixo_1/microfundamentos/algoritmos_abstracao_dados/csharp_helloworld/obj/Debug/net6.0/ref/csharp_helloworld.dll
