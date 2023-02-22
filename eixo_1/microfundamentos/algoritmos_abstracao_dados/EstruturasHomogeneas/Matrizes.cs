@@ -18,7 +18,6 @@
 
     static void ImprimirMatriz(int[,] Matriz)
     {
-
         for (int i = 0; i < Matriz.GetLength(0); i++)
         {
             for (int j = 0; j < Matriz.GetLength(1); j++)
